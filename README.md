@@ -10,7 +10,8 @@ This is a simple weather application built using **ReactJS** that allows users t
 - **Responsive Design:** The app is designed to be simple and responsive.
 
 ## Demo
-![Weather App Screenshot](screenshots/weather-app-screenshot.png)
+![Weather App Search Screenshot](screenshots/search.png)
+![Weather App Toronto Screenshot](screenshots/toronto.png)
 
 ## Technologies Used
 - **ReactJS:** JavaScript library for building user interfaces.
